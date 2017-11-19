@@ -13,12 +13,15 @@ server {
 	autoindex on;
 	}
 
-##################
+###################
 # OBERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
 ###################
 # Hier erlaubte FFNordheide Konten einfügen:
 # BSP:
 #allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:91ee;
+###################
+# BEACHTE!
+# https://nordheide.freifunk.net/wiki/Technische_Hilfe_zur_Migration_von_FFNord
 ###################
 
 allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:91ee;
