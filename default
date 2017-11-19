@@ -26,7 +26,7 @@ server {
 
 allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:91ee;
 allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:fc48;
-
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:fc48;
 
 
 
