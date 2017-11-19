@@ -1,1 +1,0 @@
-# nord-nginx-nordheide-auszug

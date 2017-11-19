@@ -1,0 +1,36 @@
+server {
+	listen 80 default_server;
+	listen [::]:80 default_server;
+
+	root /opt/www/;
+
+	index index.html index.htm index.nginx-debian.html;
+
+	server_name _;
+
+	location / {
+		try_files $uri $uri/ =404;
+	autoindex on;
+	}
+
+##################
+# OBERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
+###################
+# Hier erlaubte FFNordheide Konten einfügen:
+# BSP:
+#allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:91ee;
+###################
+
+allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:91ee;
+
+
+
+
+
+###################
+# UNTERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
+###################
+
+deny all;
+
+}
