@@ -93,6 +93,7 @@ allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:8640;
 allow fd42:eb49:c0b5:4242:32b5:c2ff:feb8:7239;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:6864;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:678a;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fea4:caa0;
 
 
 ###################	
