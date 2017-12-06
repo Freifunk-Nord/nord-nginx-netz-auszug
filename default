@@ -30,6 +30,9 @@ allow fd42:eb49:c0b5:4242:62e3:27ff:fe9a:9a9a;
 allow fd42:eb49:c0b5:4242:c6e9:84ff:fe7f:2e0c;
 allow fd42:eb49:c0b5:4242:1aa6:f7ff:feca:85f0;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:686e;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:68ca;
+allow fd42:eb49:c0b5:4242:62e3:27ff:feed:86fc;
+allow fd42:eb49:c0b5:4242:1aa6:f7ff:feca:8570;
 
 
 
