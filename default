@@ -25,7 +25,6 @@ server {
 ###################
 
 #Wolken:
-
 allow fd42:eb49:c0b5:4242:62e3:27ff:fe9a:9a9a;
 allow fd42:eb49:c0b5:4242:c6e9:84ff:fe7f:2e0c;
 allow fd42:eb49:c0b5:4242:1aa6:f7ff:feca:85f0;
@@ -37,6 +36,8 @@ allow fd42:eb49:c0b5:4242:a62b:b0ff:fea2:3384;
 allow fd42:eb49:c0b5:4242:a62b:b0ff:fefb:5e38;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:c152;
 allow fd42:eb49:c0b5:4242:1aa6:f7ff:fe4b:97ae;
+allow fd42:eb49:c0b5:4242:1aa6:f7ff:feca:8fd4;
+
 
 #ohne Mesh Links:
 allow fd42:eb49:c0b5:4242:f6f2:6dff:feff:3c7a;
