@@ -24,15 +24,29 @@ server {
 # https://nordheide.freifunk.net/wiki/Technische_Hilfe_zur_Migration_von_FFNord
 ###################
 
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe49:8ac;
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe5b:79bc;
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:a80e;
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:aa94;
 allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:fc48;
+allow fd42:eb49:c0b5:4242:a62b:b0ff:fed7:1f42;
+allow fd42:eb49:c0b5:4242:a62b:b0ff:fefe:8010;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:61da;
-allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:c600;
-allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:6828;
-allow fd42:eb49:c0b5:4242:f6f2:6dff:fedc:4600;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:6766;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:6828;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:6878;
-
-
+allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:73e6;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:bf80;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:bf9c;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:c600;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:c6aa;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:ce66;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fea4:ca46;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fea4:cc62;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fea4:ccf2;
+allow fd42:eb49:c0b5:4242:ee08:6bff:fea4:cdf4;
+allow fd42:eb49:c0b5:4242:f6f2:6dff:fedc:4600;
+allow fd42:eb49:c0b5:4242:f6f2:6dff:feff:3c7a;
 
 ###################
 # UNTERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
