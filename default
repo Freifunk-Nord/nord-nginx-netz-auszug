@@ -25,6 +25,9 @@ server {
 ###################
 
 #Wolken:
+allow fd42:eb49:c0b5:4242:9ade:d0ff:fe65:d134;
+allow d42:eb49:c0b5:4242:ee08:6bff:fe8a:b768;
+allow fd42:eb49:c0b5:4242:9ade:d0ff:fe88:868c;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:bfda;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fea4:df62;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fea4:ccb4;
@@ -160,7 +163,6 @@ allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:6850;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:6534;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:73d0;
 allow fd42:eb49:c0b5:4242:f6f2:6dff:fe85:bfa6;
-allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:685e;
 
 ###################	
 # UNTERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
