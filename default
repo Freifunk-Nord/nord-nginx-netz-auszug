@@ -179,6 +179,7 @@ allow fd42:eb49:c0b5:4242:8616:f9ff:fec8:abc6;
 allow fd42:eb49:c0b5:4242:c24a:ff:fe5e:8d08;
 allow fd42:eb49:c0b5:4242:8616:f9ff:feaf:2e28;
 allow fd42:eb49:c0b5:4242:ea94:f6ff:fecd:519c;
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe5b:861a;
 
 ###################	
 # UNTERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
