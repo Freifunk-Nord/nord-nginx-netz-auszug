@@ -28,7 +28,6 @@ server {
 allow fd42:eb49:c0b5:4242:6a72:51ff:fe6c:1eae;
 allow fd42:eb49:c0b5:4242:f6f2:6dff:fe52:7f34;
 allow fd42:eb49:c0b5:4242:6a72:51ff:fe60:987d;
-allow fd42:eb49:c0b5:4242:12fe:edff:fec2:3540;
 allow fd42:eb49:c0b5:4242:32b5:c2ff:fec2:6198;
 allow fd42:eb49:c0b5:4242:16cc:20ff:fe7b:83bf;
 allow fd42:eb49:c0b5:4242:6a72:51ff:fe34:afc2;
