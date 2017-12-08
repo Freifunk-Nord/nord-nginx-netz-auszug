@@ -25,6 +25,7 @@ server {
 ###################
 
 #Wolken:
+allow fd42:eb49:c0b5:4242:ee08:6bff:fe69:4018;
 allow fd42:eb49:c0b5:4242:6a72:51ff:fe68:15d0;
 allow fd42:eb49:c0b5:4242:9ade:d0ff:fe92:4de8;
 allow fd42:eb49:c0b5:4242:62e3:27ff:fec6:fc5a;
