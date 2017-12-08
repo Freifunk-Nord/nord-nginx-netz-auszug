@@ -88,6 +88,7 @@ allow fd42:eb49:c0b5:4242:1aa6:f7ff:feca:872e;
 allow fd42:eb49:c0b5:4242:8616:f9ff:fec8:ad8c;
 allow fd42:eb49:c0b5:4242:8616:f9ff:fe5b:865c;
 allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:fc40;
+allow fd42:eb49:c0b5:4242:62e3:27ff:fed6:1114;
 
 #ohne Mesh Links:
 allow fd42:eb49:c0b5:4242:f6f2:6dff:fe85:bfa6;
