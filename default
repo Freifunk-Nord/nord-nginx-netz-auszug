@@ -24,7 +24,8 @@ server {
 # https://nordheide.freifunk.net/wiki/Technische_Hilfe_zur_Migration_von_FFNord
 ###################
 
-#Wolken:
+#Wolken:	
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe6a:34b0;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:b252;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe78:6620;
 allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:fb70;
