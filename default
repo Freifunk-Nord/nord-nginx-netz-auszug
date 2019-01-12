@@ -47,22 +47,29 @@ allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e4f8;
 #allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e54c;
 
 #FF-BU-MUS_NS
-allow fd42:eb49:c0b5:4242:a62b:b0ff:fed2:1b64;
+#Uplink Gluon 2017
+#allow fd42:eb49:c0b5:4242:a62b:b0ff:fed2:1b64;
 #FF-BU-FF_NS
+#Gluon 2017
 #allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5eda;
 
 #FF-BU-Feuerwehr-Ecklak
-allow fd42:eb49:c0b5:4242:a62b:b0ff:fea9:f60e;
+#Uplink Gluon 2017
+#allow fd42:eb49:c0b5:4242:a62b:b0ff:fea9:f60e;
 #FF-BU-Eck-Klosterw-1a
-allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e5a8;
+#Uplink Gluon 2017
+#allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e5a8;
+#Uplink Gluon 2017
 #FF-BU-Eck-Klosterw_1a
+##Gluon 2017
 #allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5308;
 
 #FF-BU-KU_doerp12
 allow fd42:eb49:c0b5:4242:62e3:27ff:feb7:9908;
 
 #FF-BU-Kudenkanal_18
-allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:718;
+#Gluon 2017
+#allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:718;
 #FF-BU-Kudenkanal_3
 #allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9c06;
 
@@ -249,6 +256,10 @@ allow fd42:eb49:c0b5:4242:822a:a8ff:fe2d:e307;
 allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
 #Museum am Wasserturm
 #allow fd42:eb49:c0b5:4242:724f:57ff:fe83:bc1e;
+
+#Hans Otte
+#Gluon 2017
+#allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
 
 
 ###################	
