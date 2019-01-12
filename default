@@ -171,95 +171,101 @@ allow fd42:eb49:c0b5:4242:16cc:20ff:fe2b:9635;
 #KelliNet-011
 #allow fd42:eb49:c0b5:4242:92f6:52ff:fef2:6b5c;
 
-#Antik_Café_La_Donna_2
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:76d8;
-#Antik_Café_La_Donna_1
-#allow fd42:eb49:c0b5:4242:52c7:bfff:febc:3bbe;
-
-#Lohmühle1
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:afba;
-
-#Feuerwehr Bücken/HuWo
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:4dba;
-
-#Autoservice_Hohenlockstedt
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af92;
-
-#Feuerwehr Springhoe
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:750c;
-
-#Ketten_Krause
-allow fd42:eb49:c0b5:4242:ea94:f6ff:fe78:c40e;
-#DJ_B.T
-#allow fd42:eb49:c0b5:4242:1aa6:f7ff:feeb:6d9e;
-
-#Massagepraxis Birgit Mühlnickel
-allow fd42:eb49:c0b5:4242:724f:57ff:fe99:f008;
-
-#1.FC_LoLa
-allow fd42:eb49:c0b5:4242:12fe:edff:fef3:d0a2;
-
-#Feuerwehr Hohenlockstedt
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:74f4;
-
-#Schott-Gesundheit Physiopraxis
-allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8be2;
-
-#TSV_LoLa
-allow fd42:eb49:c0b5:4242:224:b2ff:fedf:8029;
-
-#Zum Kühlen Grunde
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:afd4;
-
-#Restaurant Athena
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ac5c;
-
-#Gemeindebücherei_Hohenlockstedt
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:6fda;
-
-#Wolfgangs Musikexpress
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ad9a;
-
-#Der_Sparfuxx
-allow fd42:eb49:c0b5:4242:224e:7fff:fe8b:3eb8;
-
-#Friseur_Hair_Flair
-allow fd42:eb49:c0b5:4242:724f:57ff:feae:fbf8;
-
-#Haus Annelie 3
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af3c;
-#Haus Annelie 4
-#allow fd42:eb49:c0b5:4242:724f:57ff:fe83:bade;
-#Haus Annelie 2
-#allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af2a;
-#Alten-und-Pflegeheim-Haus-Annelie1
-#allow fd42:eb49:c0b5:4242:224:b2ff:fe57:ce06;
-
-#Die_Flechtwerkstatt
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5840;
-#Kosmetikstudio_Blick_Fang
-#allow fd42:eb49:c0b5:4242:52c7:bfff:febc:77b6;
-
-#LOLA Café & Bäckerei
-allow fd42:eb49:c0b5:4242:b24e:26ff:fe69:99ae;
-#Meierhof_Moellgaard
-allow fd42:eb49:c0b5:4242:ea94:f6ff:fe33:bc90;
-#Bankers_Freifunk
-allow fd42:eb49:c0b5:4242:eade:27ff:fefd:832;
-#Floristik_Huebner
-allow fd42:eb49:c0b5:4242:c24a:ff:fe39:5bc4;
-
-#FF-AWO-Holo
-allow fd42:eb49:c0b5:4242:822a:a8ff:fe2d:e307;
-
-#Peter-Locke
-allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
-#Museum am Wasserturm
-#allow fd42:eb49:c0b5:4242:724f:57ff:fe83:bc1e;
+##HoLo###
 
 #Hans Otte
 #Gluon 2017
 #allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
+
+#Freifunk_Hwst_Barmstrasse
+allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:519c;
+
+###HoLo Gluon 2017
+#Antik_Café_La_Donna_2
+#allow fd42:eb49:c0b5:4242:52c7:bfff:febc:76d8;
+#Antik_Café_La_Donna_1
+##allow fd42:eb49:c0b5:4242:52c7:bfff:febc:3bbe;
+
+#Lohmühle1
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe83:afba;
+
+#Feuerwehr Bücken/HuWo
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe45:4dba;
+
+#Autoservice_Hohenlockstedt
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af92;
+
+#Feuerwehr Springhoe
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe45:750c;
+
+#Ketten_Krause
+#allow fd42:eb49:c0b5:4242:ea94:f6ff:fe78:c40e;
+#DJ_B.T
+##allow fd42:eb49:c0b5:4242:1aa6:f7ff:feeb:6d9e;
+
+#Massagepraxis Birgit Mühlnickel
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe99:f008;
+
+#1.FC_LoLa
+#allow fd42:eb49:c0b5:4242:12fe:edff:fef3:d0a2;
+
+#Feuerwehr Hohenlockstedt
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe45:74f4;
+
+#Schott-Gesundheit Physiopraxis
+#allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8be2;
+
+#TSV_LoLa
+#allow fd42:eb49:c0b5:4242:224:b2ff:fedf:8029;
+
+#Zum Kühlen Grunde
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe83:afd4;
+
+#Restaurant Athena
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ac5c;
+
+#Gemeindebücherei_Hohenlockstedt
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe45:6fda;
+
+#Wolfgangs Musikexpress
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ad9a;
+
+#Der_Sparfuxx
+#allow fd42:eb49:c0b5:4242:224e:7fff:fe8b:3eb8;
+
+#Friseur_Hair_Flair
+#allow fd42:eb49:c0b5:4242:724f:57ff:feae:fbf8;
+
+#Haus Annelie 3
+#allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af3c;
+#Haus Annelie 4
+##allow fd42:eb49:c0b5:4242:724f:57ff:fe83:bade;
+#Haus Annelie 2
+##allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af2a;
+#Alten-und-Pflegeheim-Haus-Annelie1
+##allow fd42:eb49:c0b5:4242:224:b2ff:fe57:ce06;
+
+#Die_Flechtwerkstatt
+#allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5840;
+#Kosmetikstudio_Blick_Fang
+##allow fd42:eb49:c0b5:4242:52c7:bfff:febc:77b6;
+
+#LOLA Café & Bäckerei
+#allow fd42:eb49:c0b5:4242:b24e:26ff:fe69:99ae;
+#Meierhof_Moellgaard
+#allow fd42:eb49:c0b5:4242:ea94:f6ff:fe33:bc90;
+#Bankers_Freifunk
+#allow fd42:eb49:c0b5:4242:eade:27ff:fefd:832;
+#Floristik_Huebner
+#allow fd42:eb49:c0b5:4242:c24a:ff:fe39:5bc4;
+
+#FF-AWO-Holo
+#allow fd42:eb49:c0b5:4242:822a:a8ff:fe2d:e307;
+
+#Peter-Locke
+#allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
+#Museum am Wasserturm
+##allow fd42:eb49:c0b5:4242:724f:57ff:fe83:bc1e;
 
 
 ###################	
