@@ -16,21 +16,13 @@ server {
 ###################
 # OBERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
 ###################
-# Hier erlaubte FFNordheide Konten einfügen:
+# Hier erlaubte Freifunk Steinburg Konten einfügen:
 # BSP:
 #allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:91ee;
 ###################
-# BEACHTE!
-# https://nordheide.freifunk.net/wiki/Technische_Hilfe_zur_Migration_von_FFNord
+# 
 ###################
 
-#rubo77:
-allow 2a07:59c6:ec02:6:a8ed:9401:12b1:5b8d;
-
-#Wolken:	
-
-
-#ohne Mesh Links:
 
 
 
