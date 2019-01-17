@@ -26,6 +26,9 @@ allow 167.114.244.90;
 # 
 ###################
 
+#testrouter
+allow fd42:eb49:c0b5:4242:224e:7fff:fe78:1f37;
+
 #FF-EULI-01
 allow fd42:eb49:c0b5:4242:a62b:b0ff:feca:8b1a;
 #FF-Euli-Offloader
