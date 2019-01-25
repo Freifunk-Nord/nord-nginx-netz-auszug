@@ -26,62 +26,7 @@ allow 167.114.244.90;
 # 
 ###################
 
-##Update auf 2017.1.8
-
-allow fd42:eb49:c0b5:4242:b2be:76ff:fe0d:998f;
-allow fd42:eb49:c0b5:4242:6670:2ff:fe4c:3918;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:3bbe;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:76d8;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af92;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5840;
-allow fd42:eb49:c0b5:4242:20c:29ff:fefc:1f42;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:4dba;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:74f4;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:6460;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:750c;
-allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:1ab6;
-allow fd42:eb49:c0b5:4242:724f:57ff:feae:edda;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5308;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5eda;
-allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:630;
-allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:718;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:6bd8;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5216;
-allow fd42:eb49:c0b5:4242:ee08:6bff:fe2b:bd38;
-allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:83fe;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ba40;
-allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8610;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ad5e;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:c09a;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af1a;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ab84;
-allow fd42:eb49:c0b5:4242:724f:57ff:feae:ffa2;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:3c92;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:4f8c;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:40fc;
-allow fd42:eb49:c0b5:4242:b24e:26ff:fe29:a6b8;
-allow fd42:eb49:c0b5:4242:f6f2:6dff:fe3e:a198;
-allow fd42:eb49:c0b5:4242:724f:57ff:feae:fbf8;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:6fda;
-allow fd42:eb49:c0b5:4242:a2f3:c1ff:fe8c:bcbc;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af2a;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af3c;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:bade;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:77b6;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:afba;
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:717c;
-allow fd42:eb49:c0b5:4242:b24e:26ff:fe69:99ae;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe99:f008;
-allow fd42:eb49:c0b5:4242:724f:57ff:feaf:46;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:bc1e;
-allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ac5c;
-allow fd42:eb49:c0b5:4242:724f:57ff:feae:fddc;
-allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8be2;
-allow fd42:eb49:c0b5:4242:62e3:27ff:fe76:68f2;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ad9a;
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:afd4;
-allow fd42:eb49:c0b5:4242:b24e:26ff:fe69:8ce8;
+allow fd42:eb49:c0b5:4242:224e:7fff:fe78:1f37;
 
 
 ###################	
