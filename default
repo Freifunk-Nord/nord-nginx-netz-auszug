@@ -68,11 +68,7 @@ allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e5a8;
 #FF-BU-Eck-Klosterw_1a
 #allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5308;
 
-##Eigener Uplink
-
-#KelliNet-006
-allow fd42:eb49:c0b5:4242:1aa6:f7ff:fe3d:f346;
-
+##Offline Ende
 
 ### WOLKEN ###
 
