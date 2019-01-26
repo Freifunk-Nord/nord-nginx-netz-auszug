@@ -95,15 +95,12 @@ allow fd42:eb49:c0b5:4242:16cc:20ff:feb9:4d3d;
 #KelliNet-013
 allow fd42:eb49:c0b5:4242:16cc:20ff:feb4:d8d8;
 #KelliNet-011
-#allow fd42:eb49:c0b5:4242:92f6:52ff:fef2:6b5c;
+allow fd42:eb49:c0b5:4242:92f6:52ff:fef2:6b5c;
 
 ##HoLo###
 
 #Hans Otte
 allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
-
-#Floristik_Huebner
-allow fd42:eb49:c0b5:4242:c24a:ff:fe39:5bc4;
 
 #Peter-Locke
 allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
