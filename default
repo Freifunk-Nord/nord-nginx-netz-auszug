@@ -85,14 +85,8 @@ allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:1f84;
 ##OFFLINE?!
 allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e4f8;
 #FF-BU-Wilster_Eiscafe-Rialto_2
-#allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e54c;
+allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e54c;
 
-
-#FF-BU-Kudenkanal_18
-##OFFLINE?!
-allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:718;
-#FF-BU-Kudenkanal_3
-allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9c06;
 
 ##HoLo###
 
