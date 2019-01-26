@@ -111,7 +111,7 @@ allow fd42:eb49:c0b5:4242:1ad6:c7ff:fee8:a1f2;
 #KelliNet-012
 allow fd42:eb49:c0b5:4242:16cc:20ff:fe2b:9635;
 #KelliNet-007
-#allow fd42:eb49:c0b5:4242:16cc:20ff:feb9:4d3d;
+allow fd42:eb49:c0b5:4242:16cc:20ff:feb9:4d3d;
 #KelliNet-013
 #allow fd42:eb49:c0b5:4242:16cc:20ff:feb4:d8d8;
 #KelliNet-011
