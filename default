@@ -130,7 +130,7 @@ allow fd42:eb49:c0b5:4242:62e3:27ff:fe94:c166;
 #KelliNet_016
 allow fd42:eb49:c0b5:4242:d66e:eff:fe36:2f2b;
 #KelliNet-004
-#allow fd42:eb49:c0b5:4242:1ad6:c7ff:fee8:a1f2;
+allow fd42:eb49:c0b5:4242:1ad6:c7ff:fee8:a1f2;
 #KelliNet-014
 #allow fd42:eb49:c0b5:4242:6670:2ff:fe77:e1ac;
 
