@@ -62,9 +62,6 @@ allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e5a8;
 #FF-BU-Eck-Klosterw_1a
 #allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5308;
 
-#FF-BU-KU_doerp12
-allow fd42:eb49:c0b5:4242:62e3:27ff:feb7:9908;
-
 #FF-BU-Kudenkanal_18
 allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:718;
 #FF-BU-Kudenkanal_3
@@ -89,9 +86,6 @@ allow fd42:eb49:c0b5:4242:b24e:26ff:fe69:8ce8;
 
 #ff-Kalle-Baecker-Itzehoe
 allow fd42:eb49:c0b5:4242:f6f2:6dff:fef2:c608;
-
-#FF-CCIZ-AP-02
-allow fd42:eb49:c0b5:4242:62e3:27ff:febe:68;
 
 #KelliNet-006
 #allow fd42:eb49:c0b5:4242:1aa6:f7ff:fe3d:f346;
