@@ -45,6 +45,29 @@ allow fd42:eb49:c0b5:4242:c66e:1fff:fe41:730f;
 #FF-BU-Feuerwehr-Ecklak
 allow fd42:eb49:c0b5:4242:a62b:b0ff:fea9:f60e;
 
+#FF-EULI-01
+allow fd42:eb49:c0b5:4242:a62b:b0ff:feca:8b1a;
+#FF-Euli-Offloader
+#allow fd42:eb49:c0b5:4242:5054:ff:fe53:8902;
+#FF-Op-de-Host
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe31:3524;
+
+#Faehrhaus_Hodorf1
+#allow fd42:eb49:c0b5:4242:16cc:20ff:fec0:177e;
+#Faehrhaus_Hodorf2
+allow fd42:eb49:c0b5:4242:6a72:51ff:fe36:c0c;
+
+
+#FF-BU-MUS_NS
+allow fd42:eb49:c0b5:4242:a62b:b0ff:fed2:1b64;
+#FF-BU-FF_NS
+allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5eda;
+
+#FF-BU-Eck-Klosterw-1a
+allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e5a8;
+#FF-BU-Eck-Klosterw_1a
+#allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5308;
+
 ##Eigener Uplink
 
 #KelliNet-006
@@ -58,34 +81,15 @@ allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:1f84;
 #St.Margarethen-002
 #allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:1fc2;
 
-#FF-EULI-01
-allow fd42:eb49:c0b5:4242:a62b:b0ff:feca:8b1a;
-#FF-Euli-Offloader
-#allow fd42:eb49:c0b5:4242:5054:ff:fe53:8902;
-#FF-Op-de-Host
-allow fd42:eb49:c0b5:4242:8616:f9ff:fe31:3524;
-
-#Faehrhaus_Hodorf1
-#allow fd42:eb49:c0b5:4242:16cc:20ff:fec0:177e;
-#Faehrhaus_Hodorf2
-allow fd42:eb49:c0b5:4242:6a72:51ff:fe36:c0c;
-
 #FF-BU-Wilster_Eiscafe-Rialto_1
+##OFFLINE?!
 allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e4f8;
 #FF-BU-Wilster_Eiscafe-Rialto_2
 #allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e54c;
 
-#FF-BU-MUS_NS
-allow fd42:eb49:c0b5:4242:a62b:b0ff:fed2:1b64;
-#FF-BU-FF_NS
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5eda;
-
-#FF-BU-Eck-Klosterw-1a
-allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e5a8;
-#FF-BU-Eck-Klosterw_1a
-#allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5308;
 
 #FF-BU-Kudenkanal_18
+##OFFLINE?!
 allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:718;
 #FF-BU-Kudenkanal_3
 allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9c06;
@@ -93,9 +97,11 @@ allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9c06;
 ##HoLo###
 
 #Hans Otte
+##Offline?
 allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
 
 #Peter-Locke
+##Gluon 2017
 allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
 
 #Autoreparatur_Stumpenhagen
