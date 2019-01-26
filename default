@@ -41,9 +41,6 @@ allow fd42:eb49:c0b5:4242:8616:f9ff:fe31:3524;
 #Faehrhaus_Hodorf2
 allow fd42:eb49:c0b5:4242:6a72:51ff:fe36:c0c;
 
-#OKJA-IZ
-allow fd42:eb49:c0b5:4242:62e3:27ff:fe36:78d2;
-
 #Jetlev
 allow fd42:eb49:c0b5:4242:c66e:1fff:fe41:730f;
 
@@ -78,9 +75,6 @@ allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:718;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe35:10b2;
 #FF-BU-STMA-Postr-9
 #allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9192;
-
-#St.Margarethen-001
-allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:37f2;
 
 #FF_TEST_SCHENEFELD
 allow fd42:eb49:c0b5:4242:a2f3:c1ff:fe5e:c182;
@@ -140,10 +134,8 @@ allow fd42:eb49:c0b5:4242:d66e:eff:fe36:2f2b;
 #KelliNet-014
 #allow fd42:eb49:c0b5:4242:6670:2ff:fe77:e1ac;
 
-#KelliNet-009
-allow fd42:eb49:c0b5:4242:32b5:c2ff:fed5:c96c;
 #KelliNet-008
-#allow fd42:eb49:c0b5:4242:ea94:f6ff:fe3f:6394;
+allow fd42:eb49:c0b5:4242:ea94:f6ff:fe3f:6394;
 
 #KelliNet-012
 allow fd42:eb49:c0b5:4242:16cc:20ff:fe2b:9635;
@@ -186,9 +178,6 @@ allow fd42:eb49:c0b5:4242:822a:a8ff:fe2d:e307;
 
 #Peter-Locke
 allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
-
-#Museum am Wasserturm
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:bc1e;
 
 
 ###################	
