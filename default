@@ -91,7 +91,7 @@ allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e5a8;
 #FF-BU-Kudenkanal_18
 allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:718;
 #FF-BU-Kudenkanal_3
-#allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9c06;
+allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9c06;
 
 ##HoLo###
 
