@@ -56,6 +56,11 @@ allow fd42:eb49:c0b5:4242:a62b:b0ff:fea9:f60e;
 
 ### WOLKEN ###
 
+#St.Margarethen-003
+allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:1f84;
+#St.Margarethen-002
+#allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:1fc2;
+
 #FF-EULI-01
 allow fd42:eb49:c0b5:4242:a62b:b0ff:feca:8b1a;
 #FF-Euli-Offloader
