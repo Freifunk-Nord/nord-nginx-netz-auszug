@@ -101,6 +101,8 @@ allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
 #Peter-Locke
 allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
 
+#Autoreparatur_Stumpenhagen
+allow fd42:eb49:c0b5:4242:f6f2:6dff:fedc:44ac;
 
 ###################	
 # UNTERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
