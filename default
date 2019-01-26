@@ -90,8 +90,6 @@ allow fd42:eb49:c0b5:4242:b24e:26ff:fe69:8ce8;
 #ff-Kalle-Baecker-Itzehoe
 allow fd42:eb49:c0b5:4242:f6f2:6dff:fef2:c608;
 
-#FF-CCIZ-AP-01
-allow fd42:eb49:c0b5:4242:32b5:c2ff:fe3e:8430;
 #FF-CCIZ-AP-02
 allow fd42:eb49:c0b5:4242:62e3:27ff:febe:68;
 
@@ -127,16 +125,13 @@ allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
 #1.FC_LoLa
 allow fd42:eb49:c0b5:4242:12fe:edff:fef3:d0a2;
 
-#TSV_LoLa
-allow fd42:eb49:c0b5:4242:224:b2ff:fedf:8029;
-
 #Alten-und-Pflegeheim-Haus-Annelie1
 allow fd42:eb49:c0b5:4242:224:b2ff:fe57:ce06;
 
 #Meierhof_Moellgaard
 allow fd42:eb49:c0b5:4242:ea94:f6ff:fe33:bc90;
 #Bankers_Freifunk
-#allow fd42:eb49:c0b5:4242:eade:27ff:fefd:832;
+allow fd42:eb49:c0b5:4242:eade:27ff:fefd:832;
 #Floristik_Huebner
 #allow fd42:eb49:c0b5:4242:c24a:ff:fe39:5bc4;
 
