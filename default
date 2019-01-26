@@ -26,6 +26,10 @@ allow 167.114.244.90;
 # 
 ###################
 
+## Offline
+#KelliNet-015
+allow fd42:eb49:c0b5:4242:a2f3:c1ff:feff:42ba;
+
 #testrouter
 allow fd42:eb49:c0b5:4242:224e:7fff:fe78:1f37;
 
@@ -35,23 +39,16 @@ allow fd42:eb49:c0b5:4242:a2f3:c1ff:fe5e:c182;
 #HohenaspeTann12
 allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:9564;
 
-#Feuerwehr Ridders
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:6460;
-
-#Zur Dorfschmiede
-allow fd42:eb49:c0b5:4242:b24e:26ff:fe69:8ce8;
-
-#KelliNet-006
-#allow fd42:eb49:c0b5:4242:1aa6:f7ff:fe3d:f346;
-
-#KelliNet-015
-allow fd42:eb49:c0b5:4242:a2f3:c1ff:feff:42ba;
-
 #Jetlev
 allow fd42:eb49:c0b5:4242:c66e:1fff:fe41:730f;
 
 #FF-BU-Feuerwehr-Ecklak
 allow fd42:eb49:c0b5:4242:a62b:b0ff:fea9:f60e;
+
+##Eigener Uplink
+
+#KelliNet-006
+allow fd42:eb49:c0b5:4242:1aa6:f7ff:fe3d:f346;
 
 
 ### WOLKEN ###
