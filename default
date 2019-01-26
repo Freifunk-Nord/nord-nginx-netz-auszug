@@ -102,12 +102,8 @@ allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
 #Alten-und-Pflegeheim-Haus-Annelie1
 allow fd42:eb49:c0b5:4242:224:b2ff:fe57:ce06;
 
-#Meierhof_Moellgaard
-allow fd42:eb49:c0b5:4242:ea94:f6ff:fe33:bc90;
-#Bankers_Freifunk
-allow fd42:eb49:c0b5:4242:eade:27ff:fefd:832;
 #Floristik_Huebner
-#allow fd42:eb49:c0b5:4242:c24a:ff:fe39:5bc4;
+allow fd42:eb49:c0b5:4242:c24a:ff:fe39:5bc4;
 
 #Peter-Locke
 allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
