@@ -102,9 +102,6 @@ allow fd42:eb49:c0b5:4242:16cc:20ff:feb9:4d3d;
 #Hans Otte
 allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
 
-#Alten-und-Pflegeheim-Haus-Annelie1
-allow fd42:eb49:c0b5:4242:224:b2ff:fe57:ce06;
-
 #Floristik_Huebner
 allow fd42:eb49:c0b5:4242:c24a:ff:fe39:5bc4;
 
