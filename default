@@ -104,14 +104,8 @@ allow fd42:eb49:c0b5:4242:32b5:c2ff:fe3e:8430;
 #FF-CCIZ-AP-02
 allow fd42:eb49:c0b5:4242:62e3:27ff:febe:68;
 
-#No.1_PC
-allow fd42:eb49:c0b5:4242:6670:2ff:fe98:60f2;
-
 #Ergotherapie_ergo-iz_de__Itzehoe
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:bf8c;
-
-#KelliNet-001
-allow fd42:eb49:c0b5:4242:6a72:51ff:fe50:a341;
 
 #KelliNet-006
 #allow fd42:eb49:c0b5:4242:1aa6:f7ff:fe3d:f346;
