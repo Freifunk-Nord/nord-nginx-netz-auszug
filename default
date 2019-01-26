@@ -82,12 +82,6 @@ allow fd42:eb49:c0b5:4242:ee08:6bff:fe35:10b2;
 #St.Margarethen-001
 allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:37f2;
 
-#Kalle-Baecker-EDEKA-Wacken
-allow fd42:eb49:c0b5:4242:62e3:27ff:feed:86ae;
-
-#FF_SCHENE_TANNENECK
-allow fd42:eb49:c0b5:4242:b6fb:e4ff:fe72:4b1e;
-
 #FF_TEST_SCHENEFELD
 allow fd42:eb49:c0b5:4242:a2f3:c1ff:fe5e:c182;
 
@@ -95,9 +89,6 @@ allow fd42:eb49:c0b5:4242:a2f3:c1ff:fe5e:c182;
 allow fd42:eb49:c0b5:4242:12fe:edff:fe57:e9e8;
 #SV_Puls
 allow fd42:eb49:c0b5:4242:16cc:20ff:fea9:1758;
-
-#FF_Puls
-allow fd42:eb49:c0b5:4242:c66e:1fff:feb3:7ae8;
 
 #Reher_SE
 allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:997e;
@@ -125,10 +116,6 @@ allow fd42:eb49:c0b5:4242:6670:2ff:fe98:60f2;
 #Ergotherapie_ergo-iz_de__Itzehoe
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:bf8c;
 
-#FF-DIT-Itzehoe1
-allow fd42:eb49:c0b5:4242:ee08:6bff:fea4:e262;
-
-
 #KelliNet-001
 allow fd42:eb49:c0b5:4242:6a72:51ff:fe50:a341;
 
@@ -137,9 +124,6 @@ allow fd42:eb49:c0b5:4242:6a72:51ff:fe50:a341;
 
 #KelliNet-015
 allow fd42:eb49:c0b5:4242:a2f3:c1ff:feff:42ba;
-
-#KelliNet-018
-allow fd42:eb49:c0b5:4242:6666:b3ff:fe54:bd3c;
 
 #KelliNet-005
 allow fd42:eb49:c0b5:4242:16cc:20ff:fe2b:7568;
@@ -156,10 +140,8 @@ allow fd42:eb49:c0b5:4242:d66e:eff:fe36:2f2b;
 #KelliNet-014
 #allow fd42:eb49:c0b5:4242:6670:2ff:fe77:e1ac;
 
-#KelliNet-002
-allow fd42:eb49:c0b5:4242:c66e:1fff:feb3:967e;
 #KelliNet-009
-#allow fd42:eb49:c0b5:4242:32b5:c2ff:fed5:c96c;
+allow fd42:eb49:c0b5:4242:32b5:c2ff:fed5:c96c;
 #KelliNet-008
 #allow fd42:eb49:c0b5:4242:ea94:f6ff:fe3f:6394;
 
@@ -180,79 +162,20 @@ allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
 #Freifunk_Hwst_Barmstrasse
 allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:519c;
 
-#Antik_Café_La_Donna_2
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:76d8;
-#Antik_Café_La_Donna_1
-##allow fd42:eb49:c0b5:4242:52c7:bfff:febc:3bbe;
-
-#Lohmühle1
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:afba;
-
-#Feuerwehr Bücken/HuWo
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:4dba;
-
-#Autoservice_Hohenlockstedt
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af92;
-
-#Feuerwehr Springhoe
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:750c;
-
-#Ketten_Krause
-allow fd42:eb49:c0b5:4242:ea94:f6ff:fe78:c40e;
-#DJ_B.T
-##allow fd42:eb49:c0b5:4242:1aa6:f7ff:feeb:6d9e;
-
-#Massagepraxis Birgit Mühlnickel
-allow fd42:eb49:c0b5:4242:724f:57ff:fe99:f008;
-
 #1.FC_LoLa
 allow fd42:eb49:c0b5:4242:12fe:edff:fef3:d0a2;
-
-#Feuerwehr Hohenlockstedt
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:74f4;
-
-#Schott-Gesundheit Physiopraxis
-allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8be2;
 
 #TSV_LoLa
 allow fd42:eb49:c0b5:4242:224:b2ff:fedf:8029;
 
-#Zum Kühlen Grunde
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:afd4;
-
-#Restaurant Athena
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ac5c;
-
-#Gemeindebücherei_Hohenlockstedt
-allow fd42:eb49:c0b5:4242:724f:57ff:fe45:6fda;
-
-#Wolfgangs Musikexpress
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:ad9a;
-
 #Der_Sparfuxx
 allow fd42:eb49:c0b5:4242:224e:7fff:fe8b:3eb8;
 
-#Friseur_Hair_Flair
-allow fd42:eb49:c0b5:4242:724f:57ff:feae:fbf8;
-
-#Haus Annelie 3
-allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af3c;
-#Haus Annelie 4
-##allow fd42:eb49:c0b5:4242:724f:57ff:fe83:bade;
-#Haus Annelie 2
-##allow fd42:eb49:c0b5:4242:724f:57ff:fe83:af2a;
 #Alten-und-Pflegeheim-Haus-Annelie1
-##allow fd42:eb49:c0b5:4242:224:b2ff:fe57:ce06;
+allow fd42:eb49:c0b5:4242:224:b2ff:fe57:ce06;
 
-#Die_Flechtwerkstatt
-allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5840;
-#Kosmetikstudio_Blick_Fang
-#allow fd42:eb49:c0b5:4242:52c7:bfff:febc:77b6;
-
-#LOLA Café & Bäckerei
-allow fd42:eb49:c0b5:4242:b24e:26ff:fe69:99ae;
 #Meierhof_Moellgaard
-#allow fd42:eb49:c0b5:4242:ea94:f6ff:fe33:bc90;
+allow fd42:eb49:c0b5:4242:ea94:f6ff:fe33:bc90;
 #Bankers_Freifunk
 #allow fd42:eb49:c0b5:4242:eade:27ff:fefd:832;
 #Floristik_Huebner
