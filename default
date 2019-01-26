@@ -74,7 +74,7 @@ allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:718;
 #FF-BU-STMA-Dostr-19
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe35:10b2;
 #FF-BU-STMA-Postr-9
-#allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9192;
+allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9192;
 
 #FF_TEST_SCHENEFELD
 allow fd42:eb49:c0b5:4242:a2f3:c1ff:fe5e:c182;
@@ -122,9 +122,6 @@ allow fd42:eb49:c0b5:4242:a2f3:c1ff:feff:42ba;
 #KelliNet-005
 allow fd42:eb49:c0b5:4242:16cc:20ff:fe2b:7568;
 
-#KelliNet-017
-allow fd42:eb49:c0b5:4242:d66e:eff:fe36:11b2;
-
 #Kellinet-003
 allow fd42:eb49:c0b5:4242:62e3:27ff:fe94:c166;
 #KelliNet_016
@@ -159,9 +156,6 @@ allow fd42:eb49:c0b5:4242:12fe:edff:fef3:d0a2;
 
 #TSV_LoLa
 allow fd42:eb49:c0b5:4242:224:b2ff:fedf:8029;
-
-#Der_Sparfuxx
-allow fd42:eb49:c0b5:4242:224e:7fff:fe8b:3eb8;
 
 #Alten-und-Pflegeheim-Haus-Annelie1
 allow fd42:eb49:c0b5:4242:224:b2ff:fe57:ce06;
