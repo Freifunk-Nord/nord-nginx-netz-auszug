@@ -76,10 +76,8 @@ allow fd42:eb49:c0b5:4242:1aa6:f7ff:fe3d:f346;
 
 ### WOLKEN ###
 
-#St.Margarethen-003
-allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:1f84;
 #St.Margarethen-002
-#allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:1fc2;
+allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:1fc2;
 
 #FF-BU-Wilster_Eiscafe-Rialto_1
 ##OFFLINE?!
