@@ -81,8 +81,6 @@ allow fd42:eb49:c0b5:4242:a2f3:c1ff:fe5e:c182;
 
 #SV_Puls_2
 allow fd42:eb49:c0b5:4242:12fe:edff:fe57:e9e8;
-#SV_Puls
-allow fd42:eb49:c0b5:4242:16cc:20ff:fea9:1758;
 
 #Reher_SE
 allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:997e;
@@ -110,9 +108,6 @@ allow fd42:eb49:c0b5:4242:62e3:27ff:febe:68;
 #KelliNet-015
 allow fd42:eb49:c0b5:4242:a2f3:c1ff:feff:42ba;
 
-#KelliNet-005
-allow fd42:eb49:c0b5:4242:16cc:20ff:fe2b:7568;
-
 #Kellinet-003
 allow fd42:eb49:c0b5:4242:62e3:27ff:fe94:c166;
 #KelliNet_016
@@ -138,9 +133,6 @@ allow fd42:eb49:c0b5:4242:16cc:20ff:fe2b:9635;
 
 #Hans Otte
 allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
-
-#Freifunk_Hwst_Barmstrasse
-allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:519c;
 
 #1.FC_LoLa
 allow fd42:eb49:c0b5:4242:12fe:edff:fef3:d0a2;
