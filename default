@@ -26,6 +26,11 @@ allow 167.114.244.90;
 # 
 ###################
 
+#KelliNet-001
+allow fd42:eb49:c0b5:4242:6a72:51ff:fe50:a341;
+#Kellinet-006
+allow fd42:eb49:c0b5:4242:1aa6:f7ff:fe3d:f346;
+
 ## Offline
 #KelliNet-015
 allow fd42:eb49:c0b5:4242:a2f3:c1ff:feff:42ba;
