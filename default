@@ -67,11 +67,6 @@ allow fd42:eb49:c0b5:4242:b24e:26ff:fe6d:718;
 #FF-BU-Kudenkanal_3
 #allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9c06;
 
-#FF-BU-STMA-Dostr-19
-allow fd42:eb49:c0b5:4242:ee08:6bff:fe35:10b2;
-#FF-BU-STMA-Postr-9
-allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9192;
-
 #FF_TEST_SCHENEFELD
 allow fd42:eb49:c0b5:4242:a2f3:c1ff:fe5e:c182;
 
@@ -84,23 +79,11 @@ allow fd42:eb49:c0b5:4242:724f:57ff:fe45:6460;
 #Zur Dorfschmiede
 allow fd42:eb49:c0b5:4242:b24e:26ff:fe69:8ce8;
 
-#ff-Kalle-Baecker-Itzehoe
-allow fd42:eb49:c0b5:4242:f6f2:6dff:fef2:c608;
-
 #KelliNet-006
 #allow fd42:eb49:c0b5:4242:1aa6:f7ff:fe3d:f346;
 
 #KelliNet-015
 allow fd42:eb49:c0b5:4242:a2f3:c1ff:feff:42ba;
-
-#Kellinet-003
-allow fd42:eb49:c0b5:4242:62e3:27ff:fe94:c166;
-#KelliNet_016
-allow fd42:eb49:c0b5:4242:d66e:eff:fe36:2f2b;
-#KelliNet-004
-allow fd42:eb49:c0b5:4242:1ad6:c7ff:fee8:a1f2;
-#KelliNet-014
-allow fd42:eb49:c0b5:4242:6670:2ff:fe77:e1ac;
 
 #KelliNet-012
 allow fd42:eb49:c0b5:4242:16cc:20ff:fe2b:9635;
@@ -116,9 +99,6 @@ allow fd42:eb49:c0b5:4242:16cc:20ff:feb9:4d3d;
 #Hans Otte
 allow fd42:eb49:c0b5:4242:b24e:26ff:feb0:8d22;
 
-#1.FC_LoLa
-allow fd42:eb49:c0b5:4242:12fe:edff:fef3:d0a2;
-
 #Alten-und-Pflegeheim-Haus-Annelie1
 allow fd42:eb49:c0b5:4242:224:b2ff:fe57:ce06;
 
@@ -127,7 +107,7 @@ allow fd42:eb49:c0b5:4242:ea94:f6ff:fe33:bc90;
 #Bankers_Freifunk
 allow fd42:eb49:c0b5:4242:eade:27ff:fefd:832;
 #Floristik_Huebner
-#allow fd42:eb49:c0b5:4242:c24a:ff:fe39:5bc4;
+allow fd42:eb49:c0b5:4242:c24a:ff:fe39:5bc4;
 
 #Peter-Locke
 allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
