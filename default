@@ -57,7 +57,6 @@ allow fd42:eb49:c0b5:4242:8616:f9ff:fe31:3524;
 #Faehrhaus_Hodorf2
 allow fd42:eb49:c0b5:4242:6a72:51ff:fe36:c0c;
 
-
 #FF-BU-MUS_NS
 allow fd42:eb49:c0b5:4242:a62b:b0ff:fed2:1b64;
 #FF-BU-FF_NS
@@ -72,15 +71,9 @@ allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e5a8;
 
 ### WOLKEN ###
 
-#St.Margarethen-002
-allow fd42:eb49:c0b5:4242:ae84:c6ff:fe91:1fc2;
-
 #FF-BU-Wilster_Eiscafe-Rialto_1
 ##OFFLINE?!
 allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e4f8;
-#FF-BU-Wilster_Eiscafe-Rialto_2
-allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e54c;
-
 
 ##HoLo###
 
