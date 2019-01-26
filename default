@@ -104,9 +104,6 @@ allow fd42:eb49:c0b5:4242:32b5:c2ff:fe3e:8430;
 #FF-CCIZ-AP-02
 allow fd42:eb49:c0b5:4242:62e3:27ff:febe:68;
 
-#Ergotherapie_ergo-iz_de__Itzehoe
-allow fd42:eb49:c0b5:4242:ee08:6bff:fe8a:bf8c;
-
 #KelliNet-006
 #allow fd42:eb49:c0b5:4242:1aa6:f7ff:fe3d:f346;
 
@@ -160,9 +157,6 @@ allow fd42:eb49:c0b5:4242:ea94:f6ff:fe33:bc90;
 #allow fd42:eb49:c0b5:4242:eade:27ff:fefd:832;
 #Floristik_Huebner
 #allow fd42:eb49:c0b5:4242:c24a:ff:fe39:5bc4;
-
-#FF-AWO-Holo
-allow fd42:eb49:c0b5:4242:822a:a8ff:fe2d:e307;
 
 #Peter-Locke
 allow fd42:eb49:c0b5:4242:220c:c8ff:fe46:57f1;
