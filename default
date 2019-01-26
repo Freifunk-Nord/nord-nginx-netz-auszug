@@ -50,7 +50,6 @@ allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e4f8;
 #allow fd42:eb49:c0b5:4242:1aa6:f7ff:fee5:e54c;
 
 #FF-BU-MUS_NS
-
 allow fd42:eb49:c0b5:4242:a62b:b0ff:fed2:1b64;
 #FF-BU-FF_NS
 allow fd42:eb49:c0b5:4242:52c7:bfff:febc:5eda;
@@ -78,12 +77,6 @@ allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:9192;
 
 #FF_TEST_SCHENEFELD
 allow fd42:eb49:c0b5:4242:a2f3:c1ff:fe5e:c182;
-
-#SV_Puls_2
-allow fd42:eb49:c0b5:4242:12fe:edff:fe57:e9e8;
-
-#Reher_SE
-allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:997e;
 
 #HohenaspeTann12
 allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:9564;
@@ -116,9 +109,6 @@ allow fd42:eb49:c0b5:4242:d66e:eff:fe36:2f2b;
 allow fd42:eb49:c0b5:4242:1ad6:c7ff:fee8:a1f2;
 #KelliNet-014
 #allow fd42:eb49:c0b5:4242:6670:2ff:fe77:e1ac;
-
-#KelliNet-008
-allow fd42:eb49:c0b5:4242:ea94:f6ff:fe3f:6394;
 
 #KelliNet-012
 allow fd42:eb49:c0b5:4242:16cc:20ff:fe2b:9635;
