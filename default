@@ -29,7 +29,7 @@ allow 167.114.244.90;
 #FeWo-Bromm-mesh
 allow fd42:eb49:c0b5:4242:62e3:27ff:fe60:1df4;
 #fewo-bromm
-#allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:1ab6;
+allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:1ab6;
 
 #ffn-Ingenhof
 allow fd42:eb49:c0b5:4242:16cc:20ff:fe5a:76d6;
