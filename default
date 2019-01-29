@@ -47,7 +47,7 @@ allow fd42:eb49:c0b5:4242:f6f2:6dff:feff:6396;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe58:fe4c;
 allow fd42:eb49:c0b5:4242:ee08:6bff:fe20:6d7e;
 allow fd42:eb49:c0b5:4242:62e3:27ff:febd:dc06;
-#allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:a94a;
+allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:a94a;
 
 
 allow fd42:eb49:c0b5:4242:224e:7fff:fe78:1f37;
