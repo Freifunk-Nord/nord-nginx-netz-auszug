@@ -39,7 +39,7 @@ allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:b83e;
 #3
 allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:8702;
 #1
-#allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:bb4e;
+allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:bb4e;
 
 
 #FeWo-Bromm-mesh
