@@ -25,6 +25,22 @@ allow 167.114.244.90;
 ###################
 # 
 ###################
+#2
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:d6ac;
+#5
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:ab46;
+#4
+allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:d6be;
+#6
+allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:bad8;
+#9
+allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:b83e;
+
+#3
+#allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:8702;
+#1
+#allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:bb4e;
+
 
 #FeWo-Bromm-mesh
 allow fd42:eb49:c0b5:4242:62e3:27ff:fe60:1df4;
