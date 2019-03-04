@@ -25,49 +25,9 @@ allow 167.114.244.90;
 ###################
 # 
 ###################
-#2
-allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:d6ac;
-#5
-allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:ab46;
-#4
-allow fd42:eb49:c0b5:4242:8616:f9ff:fe9b:d6be;
-#6
-allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:bad8;
-#9
-allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:b83e;
-
-#3
-allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:8702;
-#1
-allow fd42:eb49:c0b5:4242:1ad6:c7ff:fe51:bb4e;
-
-
-#FeWo-Bromm-mesh
-allow fd42:eb49:c0b5:4242:62e3:27ff:fe60:1df4;
-#fewo-bromm
-allow fd42:eb49:c0b5:4242:62e3:27ff:fec7:1ab6;
-
-#ffn-Ingenhof
-allow fd42:eb49:c0b5:4242:16cc:20ff:fe5a:76d6;
-#ffn_Ingenhof
-allow fd42:eb49:c0b5:4242:16cc:20ff:feb0:f096;
-
-#FF-Stolpe-DGH-1
-allow fd42:eb49:c0b5:4242:f6f2:6dff:fe22:8092;
-#FF-Stolpe-DGH-0
-allow fd42:eb49:c0b5:4242:219:99ff:fe68:dece;
-
-
-##jörg
-allow fd42:eb49:c0b5:4242:f6f2:6dff:feff:6396;
-allow fd42:eb49:c0b5:4242:ee08:6bff:fe58:fe4c;
-allow fd42:eb49:c0b5:4242:ee08:6bff:fe20:6d7e;
-allow fd42:eb49:c0b5:4242:62e3:27ff:febd:dc06;
-allow fd42:eb49:c0b5:4242:8616:f9ff:fee8:a94a;
-
-
-allow fd42:eb49:c0b5:4242:224e:7fff:fe78:1f37;
-
+#nord.freifunk.FeWo
+allow fd42:eb49:c0b5:4242:f6f2:6dff:feff:4462;
+#allow fd42:eb49:c0b5:4242:62e3:27ff:fee7:9358;
 ###################	
 # UNTERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
 ###################
