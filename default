@@ -25,9 +25,10 @@ allow 167.114.244.90;
 ###################
 # 
 ###################
-#nord.freifunk.FeWo
-allow fd42:eb49:c0b5:4242:f6f2:6dff:feff:4462;
-allow fd42:eb49:c0b5:4242:62e3:27ff:fee7:9358;
+
+allow fd42:eb49:c0b5:4242:6a72:51ff:fe36:c0c;
+#allow fd42:eb49:c0b5:4242:16cc:20ff:fec0:177e;
+
 ###################	
 # UNTERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
 ###################
