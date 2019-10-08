@@ -13,9 +13,9 @@ server {
 		autoindex on;
 	}
 
-allow 2001:41d0:401:2000::2:e902;
-allow 2001:41d0:700:2311::6;
-allow 167.114.244.90;
+#allow 2001:41d0:401:2000::2:e902;
+#allow 2001:41d0:700:2311::6;
+#allow 167.114.244.90;
 
 ###################
 # OBERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
@@ -27,12 +27,12 @@ allow 167.114.244.90;
 # 
 ###################
 
-allow fd42:eb49:c0b5:4242:f6f2:6dff:fe22:8092;
+
 
 ###################	
 # UNTERHALB KEINE ÄNDERUNGEN DURCHFÜHREN
 ###################
 
-deny all;
+#deny all;
 
 }
